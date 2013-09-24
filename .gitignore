@@ -1,0 +1,32 @@
+*.pydevproject
+.project
+.metadata
+bin/**
+tmp/**
+tmp/**/*
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.classpath
+.settings/
+.idea/
+.loadpath
+app/cache/*
+app/logs/*
+web/bundles/*
+vendor/*
+web/photos/*
+web/avatars/*
+# External tool builders
+.externalToolBuilders/
+
+# Locally stored "Eclipse launch configurations"
+*.launch
+
+# CDT-specific
+.cproject
+
+# PDT-specific
+.buildpath
