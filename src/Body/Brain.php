@@ -44,7 +44,6 @@ class Brain implements BrainInterface
         $this->face = new Face($this);
         $this->hand = new Hand($this);
         $this->leg = new Leg($this);
-
     }
 
     public function somethingHappened(BodyPart $bodyPart)
